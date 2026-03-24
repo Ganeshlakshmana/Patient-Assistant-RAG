@@ -1,0 +1,22 @@
+.git
+.gitignore
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
+*.log
+.env
+Patient_memory/     # ← if large, exclude unless needed in build
+docs/
+data/               # ← usually mount at runtime, not COPY
+uploads/            # same
+storage/            # same
+docker/
+Dockerfile
+compose.yml         # or docker-compose.yml
+**/.gitkeep

@@ -1,0 +1,15 @@
+ollama
+chromadb
+pydantic
+sqlalchemy
+streamlit
+python-dotenv
+tqdm
+pypdf
+pytesseract
+Pillow
+openai-whisper
+sounddevice
+scipy
+gTTS
+geopy
